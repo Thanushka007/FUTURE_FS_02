@@ -2,7 +2,7 @@
 
 A modern, full-stack **Lead Management CRM** built with React, TypeScript, Supabase, and Tailwind CSS. Manage your sales pipeline, track leads from multiple sources, and gain insights through analytics — all in a sleek, animated dashboard.
 
-🔗 **Live Demo:** [https://thanushka.vercel.app/](https://thanushka.vercel.app/login)
+🔗 **Live Demo:** https://thanushka.vercel.app
 
 ---
 
